@@ -32,11 +32,11 @@ specifically aiming to contribute as a Cybersecurity Analyst or Security Enginee
 
 | Offered by| Course                                        | Skills         |
 |----------|-----------------------------------------------|----------------------------|
-|<img src="https://www.google.com/images/srpr/logo10w.png" width="70"/>| <a href="https://coursera.org/verify/IZLH58B7F5TY"> Tools of the Trade: Linux and SQL</a> | Linux · SQL · Operating Systems · CLI |
-|<img src="https://www.google.com/images/srpr/logo10w.png" width="70"/>| <a href="https://coursera.org/verify/KRP3ZT4774UE"> Connect and Protect: Networks and Network Security</a> | Computer Networking · System Hardening Techniques · Secure Network Architecture |
-|<img src="https://www.google.com/images/srpr/logo10w.png" width="70"/>| <a href="https://coursera.org/verify/87MEREM6W65U"> Play It Safe: Manage Security Risks</a> | SIEM Tools · Playbook · Security Frameworks |
-|<img src="https://www.google.com/images/srpr/logo10w.png" width="70"/>| <a href="https://coursera.org/verify/HA6938KCNQAY"> Foundations of Cybersecurity</a> | Security Ethics · Security Attacks |
-|<img src="https://coursera-university-assets.s3.amazonaws.com/70/de505d47be7d3a063b51b6f856a6e2/New-Block-M-Stacked-Blue-295C_600x600.png" width="70"/>| <a href="https://coursera.org/verify/505PVPZFSFE7"> Python Data Structures</a> | Principles of Data Structures |
+|<a href="https://grow.google/certificates/cybersecurity/"><img src="https://www.google.com/images/srpr/logo10w.png" width="70"/>| <a href="https://coursera.org/verify/IZLH58B7F5TY"> Tools of the Trade: Linux and SQL</a> | Linux · SQL · Operating Systems · CLI |
+|<a href="https://grow.google/certificates/cybersecurity/"><img src="https://www.google.com/images/srpr/logo10w.png" width="70"/>| <a href="https://coursera.org/verify/KRP3ZT4774UE"> Connect and Protect: Networks and Network Security</a> | Computer Networking · System Hardening Techniques · Secure Network Architecture |
+|<a href="https://grow.google/certificates/cybersecurity/"><img src="https://www.google.com/images/srpr/logo10w.png" width="70"/>| <a href="https://coursera.org/verify/87MEREM6W65U"> Play It Safe: Manage Security Risks</a> | SIEM Tools · Playbook · Security Frameworks |
+|<a href="https://grow.google/certificates/cybersecurity/"><img src="https://www.google.com/images/srpr/logo10w.png" width="70"/>| <a href="https://coursera.org/verify/HA6938KCNQAY"> Foundations of Cybersecurity</a> | Security Ethics · Security Attacks |
+|<a href="https://www.coursera.org/learn/python-data"><img src="https://coursera-university-assets.s3.amazonaws.com/70/de505d47be7d3a063b51b6f856a6e2/New-Block-M-Stacked-Blue-295C_600x600.png" width="70"/>| <a href="https://coursera.org/verify/505PVPZFSFE7"> Python Data Structures</a> | Principles of Data Structures |
 
 
 ## Projects
