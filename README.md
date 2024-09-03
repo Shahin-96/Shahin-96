@@ -40,10 +40,11 @@ specifically aiming to contribute as a Cybersecurity Analyst or Security Enginee
 
 
 ## Projects
+- <a href="https://github.com/Shahin-96/Vulnerability-Assessment"> Vulnerability Assessment for a Small Business </a>
 - Classify the assets connected to a home network
 - Create a risk register
 - Data Security Audit and Improvement
 - Create hash values
 - Decrypt an encrypted message
 - Incident Investigation and Access Control Enhancement
-- Vulnerability Assessment for a Small Business
+
