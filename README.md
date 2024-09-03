@@ -3,20 +3,20 @@
 <a href="https://profile.indeed.com/p/shahins-rkqg6js"><img src="https://img.shields.io/badge/-Indeed-003A9B?&style=for-the-badge&logo=indeed&logoColor=white" /></a>
 
 ## Summary Biography
-Shahin is a dynamic graduate with a strong foundation in cybersecurity and networking principles, driven to make a profound  
-impact by implementing and managing security tools and technologies. Enrolling in a Google Cybersecurity Professional  
-Certificate, he has developed a strong foundation in
-cybersecurity, including how to apply the NIST Cybersecurity Framework (CSF) and the CIA triad to assess
-potential risks, create a risk register, and provide incident response. His skills include vulnerability
-management, implementing defense-in-depth strategies, and utilizing encryption and hashing techniques to
-secure information. He is proficient in programming and
-debugging with Python and Shell scripting in Linux and is passionate about gaining hands-on experience in
-automating security tasks in a Linux-based environment to ensure secure application and system
-configuration. Shahin takes ownership of his tasks, communicates effectively with his team, and believes in
+Shahin is a dynamic graduate with a strong foundation in cybersecurity and networking principles, driven to make a profound 
+impact by implementing and managing security tools and technologies. Enrolling in a Google Cybersecurity Professional 
+Certificate, he has developed a strong foundation in 
+cybersecurity, including how to apply the NIST Cybersecurity Framework (CSF) and the CIA triad to assess 
+potential risks, create a risk register, and provide incident response. His skills include vulnerability 
+management, implementing defense-in-depth strategies, and utilizing encryption and hashing techniques to 
+secure information. He is proficient in programming and 
+debugging with Python and Shell scripting in Linux and is passionate about gaining hands-on experience in 
+automating security tasks in a Linux-based environment to ensure secure application and system 
+configuration. Shahin takes ownership of his tasks, communicates effectively with his team, and believes in 
 the growth of the business he is involved in.
 ## Objective
 Taking cybersecurity-related courses in academia and enrolling in the Google Cybersecurity Professional 
-Certificate program has ignited my passion for cybersecurity. I am now eager to transition into this field,
+Certificate program has ignited my passion for cybersecurity. I am now eager to transition into this field, 
 specifically aiming to contribute as a Cybersecurity Analyst or Security Engineer.
 
 ### Programming
