@@ -32,6 +32,7 @@ specifically aiming to contribute as a Cybersecurity Analyst or Security Enginee
 
 | Offered by| Course                                        | Skills         |
 |----------|-----------------------------------------------|----------------------------|
+|<a href="https://grow.google/certificates/cybersecurity/"><img src="https://www.google.com/images/srpr/logo10w.png" width="70"/>| <a href="https://coursera.org/verify/APCRPVIYMQXC"> Assets, Threats, and Vulnerabilities</a> | Threat Modeling · Asset Classification · Threats Identification · Attack Surface Analysis |
 |<a href="https://grow.google/certificates/cybersecurity/"><img src="https://www.google.com/images/srpr/logo10w.png" width="70"/>| <a href="https://coursera.org/verify/IZLH58B7F5TY"> Tools of the Trade: Linux and SQL</a> | Linux · SQL · Operating Systems · CLI |
 |<a href="https://grow.google/certificates/cybersecurity/"><img src="https://www.google.com/images/srpr/logo10w.png" width="70"/>| <a href="https://coursera.org/verify/KRP3ZT4774UE"> Connect and Protect: Networks and Network Security</a> | Computer Networking · System Hardening Techniques · Secure Network Architecture |
 |<a href="https://grow.google/certificates/cybersecurity/"><img src="https://www.google.com/images/srpr/logo10w.png" width="70"/>| <a href="https://coursera.org/verify/87MEREM6W65U"> Play It Safe: Manage Security Risks</a> | SIEM Tools · Playbook · Security Frameworks |
