@@ -3,21 +3,11 @@
 <a href="https://profile.indeed.com/p/shahins-rkqg6js"><img src="https://img.shields.io/badge/-Indeed-003A9B?&style=for-the-badge&logo=indeed&logoColor=white" /></a>
 
 ## Summary Biography
-Shahin is a dynamic graduate with a strong foundation in cybersecurity and networking principles, driven to make a profound 
-impact by implementing and managing security tools and technologies. Enrolling in a Google Cybersecurity Professional 
-Certificate, he has developed a strong foundation in 
-cybersecurity, including how to apply the NIST Cybersecurity Framework (CSF) and the CIA triad to assess 
-potential risks, create a risk register, and provide incident response. His skills include vulnerability 
-management, implementing defense-in-depth strategies, and utilizing encryption and hashing techniques to 
-secure information. He is proficient in programming and 
-debugging with Python and Shell scripting in Linux and is passionate about gaining hands-on experience in 
-automating security tasks in a Linux-based environment to ensure secure application and system 
-configuration. Shahin takes ownership of his tasks, communicates effectively with his team, and believes in 
-the growth of the business he is involved in.
+Shahin is a dynamic developer with a strong foundation in electrical engineering and software development, driven to make a profound impact by leveraging his knowledge and expertise to create innovative solutions and solve complex challenges. Through the Google Cybersecurity Professional Certificate program, I gained a comprehensive understanding of the importance of cybersecurity practices and their impact on organizations. I developed the ability to identify common risks, threats, and vulnerabilities, along with effective techniques to mitigate them. I also learned how to protect networks, devices, people, and data from unauthorized access and cyberattacks using Security Information and Event Management (SIEM) tools. Additionally, I gained hands-on experience with Python, Linux, and SQL, further strengthening my technical skills in cybersecurity. He is proficient in programming and debugging with object-oriented languages such as Python and has hands-on experience in Shell scripting. Shahin is passionate about applying his AI/ML knowledge to detect anomalies, predict future threats, and develop practical applications that positively impact people's everyday tasks.
+
+
 ## Objective
-Taking cybersecurity-related courses in academia and enrolling in the Google Cybersecurity Professional 
-Certificate program has ignited my passion for cybersecurity. I am now eager to transition into this field, 
-specifically aiming to contribute as a Cybersecurity Analyst or Security Engineer.
+I am eager to leverage my expertise in machine learning and cybersecurity to develop innovative, real-world solutions that enhance security, optimize performance, and address complex challenges in today's digital landscape.
 
 ### Programming
 <div>
@@ -41,6 +31,7 @@ specifically aiming to contribute as a Cybersecurity Analyst or Security Enginee
 
 
 ## Projects
+### Cybersecurity
 - <a href="https://github.com/Shahin-96/Vulnerability-Assessment"> Vulnerability Assessment for a Small Business </a>
 - <a href="https://github.com/Shahin-96/Dealing-with-Missing-USB"> Dealing with Missing USB Drive </a>
 - <a href="https://github.com/Shahin-96/Applying-PASTA-Threat-Modeling"> Applying PASTA Threat Model Framework </a>
@@ -51,4 +42,14 @@ specifically aiming to contribute as a Cybersecurity Analyst or Security Enginee
 - Create hash values
 - Decrypt an encrypted message
 - Incident Investigation and Access Control Enhancement
+### Machine Learning
+- <a href="https://github.com/Shahin-96/Parkinson-disease-diagnosis"> Parkinson’s Disease Diagnosis Based on Speech Signals Dataset Using ML Techniques </a>
+- <a href="https://github.com/Shahin-96/MRI-Tumor-Detection-using-CNN"> Brain Tumor Detector System Using Real MRI Images </a>
 
+### Embedded System
+- <a href="https://github.com/Shahin-96/Interrupt_Driven_Counter"> Decimal Counter System with Reversible Counting Capability using Push Button on a 7-Segment Display </a>
+- <a href="https://github.com/Shahin-96/Fibonacci_Sequence_7_Segment"> Fibonacci Sequence Display on a 7-Segment Display </a>
+
+### Miscellaneous
+- <a href="https://github.com/Shahin-96/Generating_Dataset"> Generating a Dataset using for Analyzing University's Data </a>
+- <a href="https://github.com/Shahin-96/Custom-designed-topology"> Custom Network Topology Design and Implementation </a>
