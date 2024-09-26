@@ -17,11 +17,18 @@ I am eager to leverage my expertise in machine learning and cybersecurity to dev
   <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </div>
 
+### Cybersecurity Tools
+<div>
+  <img src="https://img.shields.io/badge/-Suricata-F05A28?&style=for-the-badge&logo=suricata&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Chronicle-4285F4?&style=for-the-badge&logo=google-cloud&logoColor=white" />
+</div>
 
 ## Certifications
 
 | Offered by| Course                                        | Skills         |
 |----------|-----------------------------------------------|----------------------------|
+|<a href="https://grow.google/certificates/cybersecurity/"><img src="https://www.google.com/images/srpr/logo10w.png" width="70"/>| <a href="https://coursera.org/verify/D92HZ11A1ABN"> Sound the Alarm: Detection and Response</a> | Incident Management · Intrusion Detection Systems (IDS) · Suricata · Splunk · Chronicle |
 |<a href="https://grow.google/certificates/cybersecurity/"><img src="https://www.google.com/images/srpr/logo10w.png" width="70"/>| <a href="https://coursera.org/verify/APCRPVIYMQXC"> Assets, Threats, and Vulnerabilities</a> | Threat Modeling · Asset Classification · Threats Identification · Attack Surface Analysis |
 |<a href="https://grow.google/certificates/cybersecurity/"><img src="https://www.google.com/images/srpr/logo10w.png" width="70"/>| <a href="https://coursera.org/verify/IZLH58B7F5TY"> Tools of the Trade: Linux and SQL</a> | Linux · SQL · Operating Systems · CLI |
 |<a href="https://grow.google/certificates/cybersecurity/"><img src="https://www.google.com/images/srpr/logo10w.png" width="70"/>| <a href="https://coursera.org/verify/KRP3ZT4774UE"> Connect and Protect: Networks and Network Security</a> | Computer Networking · System Hardening Techniques · Secure Network Architecture |
