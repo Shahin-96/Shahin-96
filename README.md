@@ -28,6 +28,7 @@ I am eager to leverage my expertise in machine learning and cybersecurity to dev
 
 | Offered by| Course                                        | Skills         |
 |----------|-----------------------------------------------|----------------------------|
+|<a href="https://grow.google/certificates/cybersecurity/"><img src="https://www.google.com/images/srpr/logo10w.png" width="70"/>| <a href="https://coursera.org/verify/8EJ010DNAKER"> Automate Cybersecurity Tasks with Python </a> | Python in Cybersecurity · Data Structures · Algorithm Development · Regular Expressions · Debugging |
 |<a href="https://grow.google/certificates/cybersecurity/"><img src="https://www.google.com/images/srpr/logo10w.png" width="70"/>| <a href="https://coursera.org/verify/D92HZ11A1ABN"> Sound the Alarm: Detection and Response</a> | Incident Management · Intrusion Detection Systems (IDS) · Suricata · Splunk · Chronicle |
 |<a href="https://grow.google/certificates/cybersecurity/"><img src="https://www.google.com/images/srpr/logo10w.png" width="70"/>| <a href="https://coursera.org/verify/APCRPVIYMQXC"> Assets, Threats, and Vulnerabilities</a> | Threat Modeling · Asset Classification · Threats Identification · Attack Surface Analysis |
 |<a href="https://grow.google/certificates/cybersecurity/"><img src="https://www.google.com/images/srpr/logo10w.png" width="70"/>| <a href="https://coursera.org/verify/IZLH58B7F5TY"> Tools of the Trade: Linux and SQL</a> | Linux · SQL · Operating Systems · CLI |
@@ -44,6 +45,7 @@ I am eager to leverage my expertise in machine learning and cybersecurity to dev
 - <a href="https://github.com/Shahin-96/Applying-PASTA-Threat-Modeling"> Applying PASTA Threat Model Framework </a>
 - <a href="https://github.com/Shahin-96/Incident-Handlers-Journal-Project"> Incident Handler's Journal Project </a>
 - <a href="https://github.com/Shahin-96/Analyze-Suspicious-File-with-VirusTotal"> Analyze a Suspicious File with VirusTotal </a>
+- <a href="https://github.com/Shahin-96/IP-Access-Control-Management"> IP Address Access Control Management using Python </a>
 - Classify the assets connected to a home network
 - Create a risk register
 - Data Security Audit and Improvement
