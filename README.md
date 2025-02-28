@@ -9,26 +9,49 @@ Shahin is a dynamic developer with a strong foundation in electrical engineering
 ## Objective
 I am eager to leverage my expertise in machine learning and Python programming to automate tedious and repetitive tasks.
 
-### Programming
+## Technical Skills
+### Programming & Scripting
 <div>
   <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ladder%20Logic-3498DB?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ST-2ECC71?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SFC-E67E22?style=for-the-badge&logoColor=white" />
 </div>
 
-### Cybersecurity Tools
+### Cybersecurity & Networking
 <div>
-  <img src="https://img.shields.io/badge/-Suricata-F05A28?&style=for-the-badge&logo=suricata&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wireshark-1887CC?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Metasploit-D32F2F?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nmap-4A148C?style=for-the-badge&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=splunk&logoColor=white" />
   <img src="https://img.shields.io/badge/-Chronicle-4285F4?&style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nessus-000000?style=for-the-badge&logo=nessus&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Suricata-F05A28?&style=for-the-badge&logo=suricata&logoColor=white" />
+</div>
+
+### GIS
+<div>
+  <img src="https://img.shields.io/badge/-ArcGIS%20Pro-29ABE2?style=for-the-badge&logo=arcgis&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Google%20Earth%20Pro-4285F4?style=for-the-badge&logo=google-earth&logoColor=white" />
+</div>
+
+### Simulation
+<div>
+  <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OrCAD-E83141?style=for-the-badge&logo=cadence&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PSCAD-004B8D?style=for-the-badge&logoColor=white" />
 </div>
 
 ## Certifications
 
 | Offered by| Course                                        | Skills         |
 |----------|-----------------------------------------------|----------------------------|
-|<a href="https://grow.google/certificates/cybersecurity/"><img src="https://www.google.com/images/srpr/logo10w.png" width="70"/>| <a href="https://coursera.org/verify/8EJ010DNAKER"> Automate Cybersecurity Tasks with Python </a> | Python in Cybersecurity · Data Structures · Algorithm Development · Regular Expressions · Debugging |
+|<a href="https://www.coursera.org/specializations/gis"><img src="https://1000logos.net/wp-content/uploads/2024/01/UC-Davis-logo.png" width="70"/></a> | <a href="https://www.coursera.org/learn/gis-data/home/module/1">GIS Data Formats, Design and Quality</a> | Design data tables · Separating and Joining Data · Write Query Strings to Subset Data · Raster data · Web Maps|
+|<a href="https://www.coursera.org/specializations/gis"><img src="https://1000logos.net/wp-content/uploads/2024/01/UC-Davis-logo.png" width="70"/></a> | <a href="https://www.coursera.org/account/accomplishments/verify/YE6SYG9MMRS5">Fundamentals of GIS</a> | Map Books · Layer and Map Packages · Inset Maps and Labeling · Geospatial Concepts|
+|<a href="https://grow.google/certificates/cybersecurity/"><img src="https://www.google.com/images/srpr/logo10w.png" width="70"/>| <a href="https://coursera.org/verify/8EJ010DNAKER"> Automate Cybersecurity Tasks with Python </a> | Python · Data Structures · Algorithm Development · Regular Expressions · Debugging |
 |<a href="https://grow.google/certificates/cybersecurity/"><img src="https://www.google.com/images/srpr/logo10w.png" width="70"/>| <a href="https://coursera.org/verify/D92HZ11A1ABN"> Sound the Alarm: Detection and Response</a> | Incident Management · Intrusion Detection Systems (IDS) · Suricata · Splunk · Chronicle |
 |<a href="https://grow.google/certificates/cybersecurity/"><img src="https://www.google.com/images/srpr/logo10w.png" width="70"/>| <a href="https://coursera.org/verify/APCRPVIYMQXC"> Assets, Threats, and Vulnerabilities</a> | Threat Modeling · Asset Classification · Threats Identification · Attack Surface Analysis |
 |<a href="https://grow.google/certificates/cybersecurity/"><img src="https://www.google.com/images/srpr/logo10w.png" width="70"/>| <a href="https://coursera.org/verify/IZLH58B7F5TY"> Tools of the Trade: Linux and SQL</a> | Linux · SQL · Operating Systems · CLI |
@@ -52,6 +75,11 @@ I am eager to leverage my expertise in machine learning and Python programming t
 - Create hash values
 - Decrypt an encrypted message
 - Incident Investigation and Access Control Enhancement
+
+### GIS
+- Valmeyer City Relocation in Illinois
+- Wildfire Impacted Area in California
+
 ### Machine Learning
 - <a href="https://github.com/Shahin-96/Parkinson-disease-diagnosis"> Parkinson’s Disease Diagnosis Based on Speech Signals Dataset Using ML Techniques </a>
 - <a href="https://github.com/Shahin-96/MRI-Tumor-Detection-using-CNN"> Brain Tumor Detector System Using Real MRI Images </a>
