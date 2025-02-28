@@ -16,6 +16,7 @@ I am eager to leverage my expertise in machine learning and Python programming t
   <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-Ladder%20Logic-3498DB?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-ST-2ECC71?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-SFC-E67E22?style=for-the-badge&logoColor=white" />
@@ -30,6 +31,9 @@ I am eager to leverage my expertise in machine learning and Python programming t
   <img src="https://img.shields.io/badge/-Chronicle-4285F4?&style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/-Nessus-000000?style=for-the-badge&logo=nessus&logoColor=white" />
   <img src="https://img.shields.io/badge/-Suricata-F05A28?&style=for-the-badge&logo=suricata&logoColor=white" />
+  <img src="https://img.shields.io/badge/-WinSCP-2980B9?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-PuTTY-000000?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-FileZilla-007BA7?style=for-the-badge&logo=filezilla&logoColor=white" />
 </div>
 
 ### GIS
@@ -49,8 +53,8 @@ I am eager to leverage my expertise in machine learning and Python programming t
 
 | Offered by| Course                                        | Skills         |
 |----------|-----------------------------------------------|----------------------------|
-|<a href="https://www.coursera.org/specializations/gis"><img src="https://1000logos.net/wp-content/uploads/2024/01/UC-Davis-logo.png" width="70"/></a> | <a href="https://www.coursera.org/learn/gis-data/home/module/1">GIS Data Formats, Design and Quality</a> | Design data tables · Separating and Joining Data · Write Query Strings to Subset Data · Raster data · Web Maps|
-|<a href="https://www.coursera.org/specializations/gis"><img src="https://1000logos.net/wp-content/uploads/2024/01/UC-Davis-logo.png" width="70"/></a> | <a href="https://www.coursera.org/account/accomplishments/verify/YE6SYG9MMRS5">Fundamentals of GIS</a> | Map Books · Layer and Map Packages · Inset Maps and Labeling · Geospatial Concepts|
+|<a href="https://www.coursera.org/specializations/gis"><img src="https://1000logos.net/wp-content/uploads/2024/01/UC-Davis-logo.png" width="70"/></a> | <a href="https://coursera.org/verify/9UOP6TXO3I45">GIS Data Formats, Design and Quality</a> | Design data tables · Separating and Joining Data · Write Query Strings to Subset Data · Raster data · Web Maps|
+|<a href="https://www.coursera.org/specializations/gis"><img src="https://1000logos.net/wp-content/uploads/2024/01/UC-Davis-logo.png" width="70"/></a> | <a href="https://coursera.org/verify/YE6SYG9MMRS5">Fundamentals of GIS</a> | Map Books · Layer and Map Packages · Inset Maps and Labeling · Geospatial Concepts|
 |<a href="https://grow.google/certificates/cybersecurity/"><img src="https://www.google.com/images/srpr/logo10w.png" width="70"/>| <a href="https://coursera.org/verify/8EJ010DNAKER"> Automate Cybersecurity Tasks with Python </a> | Python · Data Structures · Algorithm Development · Regular Expressions · Debugging |
 |<a href="https://grow.google/certificates/cybersecurity/"><img src="https://www.google.com/images/srpr/logo10w.png" width="70"/>| <a href="https://coursera.org/verify/D92HZ11A1ABN"> Sound the Alarm: Detection and Response</a> | Incident Management · Intrusion Detection Systems (IDS) · Suricata · Splunk · Chronicle |
 |<a href="https://grow.google/certificates/cybersecurity/"><img src="https://www.google.com/images/srpr/logo10w.png" width="70"/>| <a href="https://coursera.org/verify/APCRPVIYMQXC"> Assets, Threats, and Vulnerabilities</a> | Threat Modeling · Asset Classification · Threats Identification · Attack Surface Analysis |
@@ -58,7 +62,7 @@ I am eager to leverage my expertise in machine learning and Python programming t
 |<a href="https://grow.google/certificates/cybersecurity/"><img src="https://www.google.com/images/srpr/logo10w.png" width="70"/>| <a href="https://coursera.org/verify/KRP3ZT4774UE"> Connect and Protect: Networks and Network Security</a> | Computer Networking · System Hardening Techniques · Secure Network Architecture |
 |<a href="https://grow.google/certificates/cybersecurity/"><img src="https://www.google.com/images/srpr/logo10w.png" width="70"/>| <a href="https://coursera.org/verify/87MEREM6W65U"> Play It Safe: Manage Security Risks</a> | SIEM Tools · Playbook · Security Frameworks |
 |<a href="https://grow.google/certificates/cybersecurity/"><img src="https://www.google.com/images/srpr/logo10w.png" width="70"/>| <a href="https://coursera.org/verify/HA6938KCNQAY"> Foundations of Cybersecurity</a> | Security Ethics · Security Attacks |
-|<a href="https://www.coursera.org/learn/python-data"><img src="https://coursera-university-assets.s3.amazonaws.com/70/de505d47be7d3a063b51b6f856a6e2/New-Block-M-Stacked-Blue-295C_600x600.png" width="70"/>| <a href="https://coursera.org/verify/505PVPZFSFE7"> Python Data Structures</a> | Principles of Data Structures |
+|<a href="https://www.coursera.org/learn/python-data"><img src="https://1000logos.net/wp-content/uploads/2018/08/University-of-Michigan-Logo.png" width="70"/>| <a href="https://coursera.org/verify/505PVPZFSFE7"> Python Data Structures</a> | Principles of Data Structures |
 
 
 ## Projects
@@ -77,8 +81,8 @@ I am eager to leverage my expertise in machine learning and Python programming t
 - Incident Investigation and Access Control Enhancement
 
 ### GIS
-- Valmeyer City Relocation in Illinois
-- Wildfire Impacted Area in California
+- <a href="https://github.com/Shahin-96/GIS-Portfolio/tree/main/Valmeyer%20City%20Relocation"> Valmeyer City Relocation in Illinois </a>
+- <a href="https://github.com/Shahin-96/GIS-Portfolio/tree/main/Wildfire%20Impacted%20"> AreaWildfire Impacted Area in California </a>
 
 ### Machine Learning
 - <a href="https://github.com/Shahin-96/Parkinson-disease-diagnosis"> Parkinson’s Disease Diagnosis Based on Speech Signals Dataset Using ML Techniques </a>
