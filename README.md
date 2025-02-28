@@ -3,11 +3,11 @@
 <a href="https://profile.indeed.com/p/shahins-rkqg6js"><img src="https://img.shields.io/badge/-Indeed-003A9B?&style=for-the-badge&logo=indeed&logoColor=white" /></a>
 
 ## Summary Biography
-Shahin is a dynamic developer with a strong foundation in electrical engineering and software development, driven to make a profound impact by leveraging his knowledge and expertise to create innovative solutions and solve complex challenges. Through the Google Cybersecurity Professional Certificate program, he gained a comprehensive understanding of the importance of cybersecurity practices and their impact on organizations. He developed the ability to identify common risks, threats, and vulnerabilities, along with effective techniques to mitigate them. He also learned how to protect networks, devices, people, and data from unauthorized access and cyberattacks using Security Information and Event Management (SIEM) tools. Additionally, he gained hands-on experience with Python, Linux, and SQL, further strengthening his technical skills in cybersecurity. He is proficient in programming and debugging with object-oriented languages such as Python and has hands-on experience in Shell scripting. Shahin is passionate about applying his AI/ML knowledge to detect anomalies, predict future threats, and develop practical applications that positively impact people's everyday tasks.
+Shahin is a dynamic developer with a strong foundation in electrical engineering and software development, driven to make a profound impact by leveraging his knowledge and expertise to create innovative solutions and solve complex challenges. Shahin is passionate about applying his AI/ML knowledge to detect anomalies, predict future threats, and develop practical applications that positively impact people's everyday tasks. Additionally, he has hands-on experience in utilizing ArcGIS Pro for creating informative and high-quality maps.
 
 
 ## Objective
-I am eager to leverage my expertise in machine learning and cybersecurity to develop innovative, real-world solutions that enhance security, optimize performance, and address complex challenges in today's digital landscape.
+I am eager to leverage my expertise in machine learning and Python programming to automate tedious and repetitive tasks.
 
 ### Programming
 <div>
