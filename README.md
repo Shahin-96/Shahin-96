@@ -82,7 +82,7 @@ I am eager to leverage my expertise in machine learning and Python programming t
 
 ### GIS
 - <a href="https://github.com/Shahin-96/GIS-Portfolio/tree/main/Valmeyer%20City%20Relocation"> Valmeyer City Relocation in Illinois </a>
-- <a href="https://github.com/Shahin-96/GIS-Portfolio/tree/main/Wildfire%20Impacted%20Area"> AreaWildfire Impacted Area in California </a>
+- <a href="https://github.com/Shahin-96/GIS-Portfolio/tree/main/Wildfire%20Impacted%20Area"> Wildfire Impacted Area in California </a>
 
 ### Machine Learning
 - <a href="https://github.com/Shahin-96/Parkinson-disease-diagnosis"> Parkinson’s Disease Diagnosis Based on Speech Signals Dataset Using ML Techniques </a>
