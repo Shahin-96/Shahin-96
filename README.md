@@ -52,7 +52,7 @@ I am eager to leverage my expertise in machine learning and Python programming t
 ## Certifications
 
 | Offered by| Course                                        | Skills         |
-|----------|-----------------------------------------------|----------------------------|
+|----------|-------------------------------------------------|--------------------------|
 |<a href="https://www.coursera.org/specializations/gis"><img src="https://1000logos.net/wp-content/uploads/2024/01/UC-Davis-logo.png" width="70"/></a> | <a href="https://coursera.org/verify/9UOP6TXO3I45">GIS Data Formats, Design and Quality</a> | Design data tables · Separating and Joining Data · Write Query Strings to Subset Data · Raster data · Web Maps|
 |<a href="https://www.coursera.org/specializations/gis"><img src="https://1000logos.net/wp-content/uploads/2024/01/UC-Davis-logo.png" width="70"/></a> | <a href="https://coursera.org/verify/YE6SYG9MMRS5">Fundamentals of GIS</a> | Map Books · Layer and Map Packages · Inset Maps and Labeling · Geospatial Concepts|
 |<a href="https://grow.google/certificates/cybersecurity/"><img src="https://www.google.com/images/srpr/logo10w.png" width="70"/>| <a href="https://coursera.org/verify/8EJ010DNAKER"> Automate Cybersecurity Tasks with Python </a> | Python · Data Structures · Algorithm Development · Regular Expressions · Debugging |
@@ -63,6 +63,7 @@ I am eager to leverage my expertise in machine learning and Python programming t
 |<a href="https://grow.google/certificates/cybersecurity/"><img src="https://www.google.com/images/srpr/logo10w.png" width="70"/>| <a href="https://coursera.org/verify/87MEREM6W65U"> Play It Safe: Manage Security Risks</a> | SIEM Tools · Playbook · Security Frameworks |
 |<a href="https://grow.google/certificates/cybersecurity/"><img src="https://www.google.com/images/srpr/logo10w.png" width="70"/>| <a href="https://coursera.org/verify/HA6938KCNQAY"> Foundations of Cybersecurity</a> | Security Ethics · Security Attacks |
 |<a href="https://www.coursera.org/learn/python-data"><img src="https://1000logos.net/wp-content/uploads/2018/08/University-of-Michigan-Logo.png" width="70"/>| <a href="https://coursera.org/verify/505PVPZFSFE7"> Python Data Structures</a> | Principles of Data Structures |
+|<a href="https://www.cisa.gov/resources-tools/training/advanced-cybersecurity-industrial-control-systems-ics300"><img src="https://www.cisa.gov/sites/default/files/images/SVG/header_logo_tagline_update.svg" width="70"/>| <a href="https://drive.google.com/file/d/1JDccEZRI8lMcaeQVTFB_BmqVi420fkhf/view?usp=sharing">Industrial Control System Cybersecurity (ICS 300)</a> | Ladder Logic, MetaSploit, NetworkMiner, Wireshark, Nmap, Nessus |
 
 
 ## Projects
@@ -93,5 +94,5 @@ I am eager to leverage my expertise in machine learning and Python programming t
 - <a href="https://github.com/Shahin-96/Fibonacci_Sequence_7_Segment"> Fibonacci Sequence Display on a 7-Segment Display </a>
 
 ### Miscellaneous
-- <a href="https://github.com/Shahin-96/Generating_Dataset"> Generating a Dataset using for Analyzing University's Data </a>
+- <a href="https://github.com/Shahin-96/Generating_Dataset"> Generating a Dataset using Python and Analyzing University's data </a>
 - <a href="https://github.com/Shahin-96/Custom-designed-topology"> Custom Network Topology Design and Implementation </a>
