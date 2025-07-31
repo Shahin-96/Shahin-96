@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/shahin-saeidi/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Summary Biography
-Shahin is a dynamic developer with a strong foundation in electrical engineering and software development, driven to create impactful, innovative solutions. He is passionate about applying AI/ML to detect anomalies, predict future threats, and develop practical applications that enhance everyday tasks. Additionally, he has hands-on experience using ArcGIS Pro to create informative, high-quality maps. He is eager to stay at the forefront of emerging technologies through continuous learning, certifications, and actively solving real-world problems.
+Shahin is a dynamic developer with a strong foundation in electrical engineering and cybersecurity, driven to create impactful, innovative solutions. He is passionate about applying AI/ML to detect anomalies, predict future threats, and develop practical applications that enhance everyday tasks. Additionally, he has hands-on experience using ArcGIS Pro to create informative, high-quality maps. He is eager to stay at the forefront of emerging technologies through continuous learning, certifications, and actively solving real-world problems.
 
 
 ## Objective
