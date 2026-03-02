@@ -80,17 +80,21 @@ I am eager to leverage my expertise in machine learning and Python programming t
 - Decrypt an encrypted message
 - Incident Investigation and Access Control Enhancement
 
-### GIS
-- <a href="https://github.com/Shahin-96/GIS-Portfolio/tree/main/Valmeyer%20City%20Relocation"> Valmeyer City Relocation in Illinois </a>
-- <a href="https://github.com/Shahin-96/GIS-Portfolio/tree/main/Wildfire%20Impacted%20Area"> Wildfire Impacted Area in California </a>
 
 ### Machine Learning
-- <a href="https://github.com/Shahin-96/Parkinson-disease-diagnosis"> Parkinson’s Disease Diagnosis Based on Speech Signals Dataset Using ML Techniques </a>
+- <a href="https://github.com/Shahin-96/Fault-Detection-and-Classification"> Electrical Fault Detection and Classification </a>
+- <a href="https://github.com/Shahin-96/Solar-Power-Generation-Forecast"> Solar Power Generation Forecast </a>
 - <a href="https://github.com/Shahin-96/MRI-Tumor-Detection-using-CNN"> Brain Tumor Detector System Using Real MRI Images </a>
+- <a href="https://github.com/Shahin-96/Parkinson-disease-diagnosis"> Parkinson’s Disease Diagnosis Based on Speech Signals Dataset Using ML Techniques </a>
+
 
 ### Embedded System
 - <a href="https://github.com/Shahin-96/Interrupt_Driven_Counter"> Decimal Counter System with Reversible Counting Capability using Push Button on a 7-Segment Display </a>
 - <a href="https://github.com/Shahin-96/Fibonacci_Sequence_7_Segment"> Fibonacci Sequence Display on a 7-Segment Display </a>
+
+### GIS
+- <a href="https://github.com/Shahin-96/GIS-Portfolio/tree/main/Valmeyer%20City%20Relocation"> Valmeyer City Relocation in Illinois </a>
+- <a href="https://github.com/Shahin-96/GIS-Portfolio/tree/main/Wildfire%20Impacted%20Area"> Wildfire Impacted Area in California </a>
 
 ### Miscellaneous
 - <a href="https://github.com/Shahin-96/Generating_Dataset"> Generating a Dataset using Python and Analyzing University's data </a>
