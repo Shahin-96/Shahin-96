@@ -2,67 +2,31 @@
 <a href="https://www.linkedin.com/in/shahin-saeidi/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Summary Biography
-Shahin is a dynamic developer with a strong foundation in electrical engineering and cybersecurity, driven to create impactful, innovative solutions. He is passionate about applying AI/ML to detect anomalies, predict future threats, and develop practical applications that enhance everyday tasks. Additionally, he has hands-on experience using ArcGIS Pro to create informative, high-quality maps. He is eager to stay at the forefront of emerging technologies through continuous learning, certifications, and actively solving real-world problems.
+Shahin is a cybersecurity-focused developer with a strong foundation in security operations, and AI/Machine Learning, and electrical engineering. He is interested in building practical security solutions that support threat detection, anomaly analysis, and incident investigation. His work combines hands-on experience with SIEM tools, security monitoring, automation, and AI/ML concepts to solve real-world cybersecurity problems. He is committed to continuous learning, improving his technical skills, and staying current with emerging security technologies.
 
 
 ## Objective
-I am eager to leverage my expertise in machine learning and Python programming to automate tedious and repetitive tasks.
+I am eager to leverage my skills in machine learning, Python programming, and cybersecurity to automate repetitive tasks, improve security monitoring, and build practical tools for threat detection and analysis.
 
 ## Technical Skills
 ### Programming & Scripting
-<div>
-  <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Ladder%20Logic-3498DB?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ST-2ECC71?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SFC-E67E22?style=for-the-badge&logoColor=white" />
-</div>
+Python · SQL · PowerShell · Bash · JavaScript · Ladder Logic
 
 ### Cybersecurity & Networking
-<div>
-  <img src="https://img.shields.io/badge/-Wireshark-1887CC?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Metasploit-D32F2F?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nmap-4A148C?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Chronicle-4285F4?&style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nessus-000000?style=for-the-badge&logo=nessus&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Suricata-F05A28?&style=for-the-badge&logo=suricata&logoColor=white" />
-  <img src="https://img.shields.io/badge/-WinSCP-2980B9?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-PuTTY-000000?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-FileZilla-007BA7?style=for-the-badge&logo=filezilla&logoColor=white" />
-</div>
-
-### GIS
-<div>
-  <img src="https://img.shields.io/badge/-ArcGIS%20Pro-29ABE2?style=for-the-badge&logo=arcgis&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Google%20Earth%20Pro-4285F4?style=for-the-badge&logo=google-earth&logoColor=white" />
-</div>
-
-### Simulation
-<div>
-  <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/-OrCAD-E83141?style=for-the-badge&logo=cadence&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PSCAD-004B8D?style=for-the-badge&logoColor=white" />
-</div>
+Microsoft Sentinel · Microsoft Defender XDR · Splunk · CrowdStrike Falcon · Qualys · Microsoft Defender for Cloud · Microsoft Entra ID · Elastic Stack · Wireshark · Nessus
 
 ## Certifications
 
 | Offered by| Course                                        | Skills         |
 |----------|-------------------------------------------------|--------------------------|
-|<a href="https://www.coursera.org/specializations/gis"><img src="https://1000logos.net/wp-content/uploads/2024/01/UC-Davis-logo.png" width="70"/></a> | <a href="https://coursera.org/verify/9UOP6TXO3I45">GIS Data Formats, Design and Quality</a> | Design data tables · Separating and Joining Data · Write Query Strings to Subset Data · Raster data · Web Maps|
-|<a href="https://www.coursera.org/specializations/gis"><img src="https://1000logos.net/wp-content/uploads/2024/01/UC-Davis-logo.png" width="70"/></a> | <a href="https://coursera.org/verify/YE6SYG9MMRS5">Fundamentals of GIS</a> | Map Books · Layer and Map Packages · Inset Maps and Labeling · Geospatial Concepts|
-|<a href="https://grow.google/certificates/cybersecurity/"><img src="https://www.google.com/images/srpr/logo10w.png" width="70"/>| <a href="https://coursera.org/verify/8EJ010DNAKER"> Automate Cybersecurity Tasks with Python </a> | Python · Data Structures · Algorithm Development · Regular Expressions · Debugging |
-|<a href="https://grow.google/certificates/cybersecurity/"><img src="https://www.google.com/images/srpr/logo10w.png" width="70"/>| <a href="https://coursera.org/verify/D92HZ11A1ABN"> Sound the Alarm: Detection and Response</a> | Incident Management · Intrusion Detection Systems (IDS) · Suricata · Splunk · Chronicle |
-|<a href="https://grow.google/certificates/cybersecurity/"><img src="https://www.google.com/images/srpr/logo10w.png" width="70"/>| <a href="https://coursera.org/verify/APCRPVIYMQXC"> Assets, Threats, and Vulnerabilities</a> | Threat Modeling · Asset Classification · Threats Identification · Attack Surface Analysis |
-|<a href="https://grow.google/certificates/cybersecurity/"><img src="https://www.google.com/images/srpr/logo10w.png" width="70"/>| <a href="https://coursera.org/verify/IZLH58B7F5TY"> Tools of the Trade: Linux and SQL</a> | Linux · SQL · Operating Systems · CLI |
-|<a href="https://grow.google/certificates/cybersecurity/"><img src="https://www.google.com/images/srpr/logo10w.png" width="70"/>| <a href="https://coursera.org/verify/KRP3ZT4774UE"> Connect and Protect: Networks and Network Security</a> | Computer Networking · System Hardening Techniques · Secure Network Architecture |
-|<a href="https://grow.google/certificates/cybersecurity/"><img src="https://www.google.com/images/srpr/logo10w.png" width="70"/>| <a href="https://coursera.org/verify/87MEREM6W65U"> Play It Safe: Manage Security Risks</a> | SIEM Tools · Playbook · Security Frameworks |
-|<a href="https://grow.google/certificates/cybersecurity/"><img src="https://www.google.com/images/srpr/logo10w.png" width="70"/>| <a href="https://coursera.org/verify/HA6938KCNQAY"> Foundations of Cybersecurity</a> | Security Ethics · Security Attacks |
-|<a href="https://www.coursera.org/learn/python-data"><img src="https://1000logos.net/wp-content/uploads/2018/08/University-of-Michigan-Logo.png" width="70"/>| <a href="https://coursera.org/verify/505PVPZFSFE7"> Python Data Structures</a> | Principles of Data Structures |
-|<a href="https://www.cisa.gov/resources-tools/training/advanced-cybersecurity-industrial-control-systems-ics300"><img src="https://www.cisa.gov/sites/default/files/images/SVG/header_logo_tagline_update.svg" width="70"/>| <a href="https://drive.google.com/file/d/1JDccEZRI8lMcaeQVTFB_BmqVi420fkhf/view?usp=sharing">Industrial Control System Cybersecurity (ICS 300)</a> | Ladder Logic, MetaSploit, NetworkMiner, Wireshark, Nmap, Nessus |
+| <a href="https://learn.microsoft.com/en-us/credentials/certifications/security-operations-analyst/"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg"/></a> | <a href="https://learn.microsoft.com/en-us/users/shahinsaeidi-6514/credentials/5509af0a2b8612d6?ref=https%3A%2F%2Fwww.linkedin.com%2F">Microsoft Certified: Security Operations Analyst Associate (SC-200)</a> | Microsoft Sentinel · Microsoft Defender XDR · KQL · Threat Hunting · Incident Response · Security Monitoring |
+| <a href="https://www.qualys.com/training/course/vmdr"><img src="https://ik.imagekit.io/qualys/image/logo/qualys.svg" width="70"/></a> | <a href="https://www.qualys.com/training/course/vmdr">Qualys Vulnerability Management, Detection and Response (VMDR)</a> | Vulnerability Management · Asset Discovery · Risk Prioritization · Vulnerability Detection · Remediation Tracking |
+| <a href="https://www.qualys.com/training/course/pci-compliance"><img src="https://ik.imagekit.io/qualys/image/logo/qualys.svg" width="70"/></a> | <a href="https://www.qualys.com/training/course/pci-compliance">Qualys PCI Compliance</a> | PCI DSS · Compliance Scanning · Vulnerability Management · Compliance Reporting · Security Assessment |
+| <a href="https://www.comptia.org/en/certifications/security/"><img src="https://www.comptia.org/_next/image/?url=https%3A%2F%2Fimages4.cmp.optimizely.com%2Ff3a9e09e3e2c11efaf66baf966a02641&w=256&q=90" width="70"/></a> | <a href="https://www.credly.com/badges/3bf5e97f-a449-48f4-97fb-283787bd00b3/">CompTIA Security+ ce Certification</a> | Threats and Vulnerabilities · Risk Management · Security Operations · Network Security · Incident Response |
+| <a href="https://www.coursera.org/professional-certificates/microsoft-it-support-specialist"><img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/73/8792b24ae547c1a582c33f7ea4d569/Microsoft-logo_rgb_200x43.png?auto=format%2Ccompress&dpr=2&h=45" width="70"/></a> | <a href="https://www.coursera.org/professional-certificates/microsoft-it-support-specialist">Microsoft IT Support Specialist Professional Certificate</a> | Windows Support · Troubleshooting · Networking Basics · Microsoft 365 · Active Directory · Help Desk Support |
+| <a href="https://www.cisa.gov/resources-tools/training/advanced-cybersecurity-industrial-control-systems-ics300"><img src="https://www.cisa.gov/sites/default/files/images/SVG/header_logo_tagline_update.svg" width="70"/></a> | <a href="https://drive.google.com/file/d/1JDccEZRI8lMcaeQVTFB_BmqVi420fkhf/view?usp=sharing">Industrial Control System Cybersecurity (ICS 300)</a> | ICS Security · Ladder Logic · Metasploit · NetworkMiner · Wireshark · Nmap · Nessus |
+| <a href="https://grow.google/certificates/cybersecurity/"><img src="https://www.google.com/images/srpr/logo10w.png" width="70"/></a> | <a href="https://www.credly.com/badges/c24af5cf-edab-4395-b401-cadec765a8a3/">Google Cybersecurity Professional Certificate</a> | Security Information and Event Management (SIEM) tools · Intrusion Detection and IDS tools · Network Security · Threat Analysis · Vulnerability Assessment |
+| <a href="https://www.coursera.org/learn/python-data"><img src="https://1000logos.net/wp-content/uploads/2018/08/University-of-Michigan-Logo.png" width="70"/></a> | <a href="https://coursera.org/verify/505PVPZFSFE7">Python Data Structures</a> | Python · Data Structures · Lists · Dictionaries · Tuples |
 
 
 ## Projects
